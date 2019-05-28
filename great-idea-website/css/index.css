@@ -64,3 +64,99 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+#main{
+	margin: 20px 27%;
+}
+
+#navigation-top{
+	display: inline-block;
+}
+
+#navigation-top a {
+	margin: 10px 25px;
+	color: gray;
+	text-decoration: none;
+}
+
+.logo{
+	float: right;
+}
+
+header{
+	margin-bottom: 60px;
+}
+
+.tagline{
+	font-family: "Bangers";
+	font-size: 400%;
+	text-align: center;
+}
+
+#subheader img, #subheader section, #subheader button {
+	display: inline-block;
+	margin: auto;
+}
+
+#subheader {
+	position: relative;
+	left: 13%;
+}
+
+#subheader button {
+	position: relative;
+	left: 32%;
+}
+
+#subheader section{
+	margin-right: 15%;
+	position: relative;
+	top: -40px;
+}
+
+article section h4{
+	font-family: "Bangers";
+	font-size: 120%;
+}
+article section{
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+.top-section{
+	width: 49%;
+}
+
+.bottom-section{
+	width: 33%;
+}
+
+article{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-top: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+footer h4{
+	font-family: "Bangers";
+	font-size: 120%;
+}
+
+footer p{
+	margin-bottom: 12px;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+
+.middle-img{
+	display: block;
+	padding-bottom: 30px;
+}
+
+footer h6{
+	text-align: center;
+	margin-top: 40px;
+}
